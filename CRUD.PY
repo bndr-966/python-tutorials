@@ -52,9 +52,9 @@ if(enter=="create"):
     
 
 
-elif(enter=="read number"):
-    input_name=input('please write the Name you are looking for')
-    read_number(input_name)
+# elif(enter=="read number"):
+#     input_name=input('please write the Name you are looking for')
+#     read_number(input_name)
 
 elif(enter=="read name"):
     input_number=input("please write the number you are looking for")
