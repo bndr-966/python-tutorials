@@ -61,6 +61,7 @@
 start_value = 10  # You can change this to any starting number
 
 for i in range(start_value, -1):
+    #this line prints i varaible
     print(i)
 student=1
 sum=0
