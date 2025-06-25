@@ -14,7 +14,7 @@ class vehicle:
 class car(vehicle):
     def display(self):
         print('this is car class')
-        
+        # jfhg
     
     def move(self):
         print('that car can moved ')
