@@ -16,4 +16,4 @@ def totalCost(numberOfItems,cost, percent):
    total= itemQuantity(numberOfItems, cost) + vat(cost, percent)* numberOfItems
    print (total)
 
-totalCost(2 ,10, 0.20)
+totalCost(2 ,10, 0.20) 
